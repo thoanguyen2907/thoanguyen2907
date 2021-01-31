@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**thoanguyen2907/thoanguyen2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 My Latest Jira Project Clone: http://jiraprojectthoanguyen.surge.sh 
 
 I am comfortable with: 
