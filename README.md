@@ -14,7 +14,9 @@ I am comfortable with:
 - 🌱 I’m currently learning Typescript 
 - 👯 I’m looking to collaborate on front-end projects
 - 📫 How to reach me: 
+
 :iphone: 046 564 9603
+
 :mailbox: thoanguyen290795@gmail.com
 
 
