@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
+My Biggest Project:  Cinema Project Clone: http://cinema-booking-ticket-clone-thoa-nguyen.surge.sh/
 
-
-My Latest Jira Project Clone: http://jiraprojectthoanguyen.surge.sh 
+My Biggest Project:  Jira Project Clone: http://jiraprojectthoanguyen.surge.sh 
 
 My Porfolio: https://thoanguyen-frontend-cv.netlify.app/work.html
 
