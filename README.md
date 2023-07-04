@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-
-My Front-end Project:  Cinema Project Clone: http://cinema-booking-ticket-clone-tix-project.surge.sh/
-
-My Front-end Project:  Jira Project Clone: http://jira-project-management-thoa-nguyen.surge.sh/
-
 My Porfolio: https://thoanguyen-frontend-cv.netlify.app/work.html
 
 I am comfortable with: 
 
-  :snowflake: Reactjs, React Saga, React Thunk, HOC,  Ant Design, Formik + Yup , Tailwind, Javascript, Typescript, OOP, Nodejs
+  :snowflake: Reactjs, React Saga, React Thunk, HOC,  Ant Design, Formik + Yup , Tailwind, Javascript, Typescript, OOP, Nodejs, Java, Spring Boot , 
+MySql, 
 
 - 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 - 📫 How to reach me: 
