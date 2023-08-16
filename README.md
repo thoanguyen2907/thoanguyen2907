@@ -1,19 +1,23 @@
-### Hi there 👋
+## Hello there! 👋
 
-My Porfolio: https://thoanguyen-frontend-cv.netlify.app/work.html
+Welcome to my GitHub profile. Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
 
-I am comfortable with: 
+### About Me
 
-  :snowflake: Reactjs, React Saga, React Thunk, HOC,  Ant Design, Formik + Yup , Tailwind, Javascript, Typescript, OOP, Nodejs, Java, Spring Boot , 
-MySql, 
+I specialize in:
 
-- 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
-- 📫 How to reach me: 
+- :snowflake: **Frontend**: Reactjs, React Saga, React Thunk, Higher-Order Components (HOC), Ant Design, Formik + Yup, Tailwind CSS, JavaScript, TypeScript
+- **Database**: MySQL
+- **Backend**: Object-Oriented Programming (OOP), Node.js, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
 
-:iphone: 046 564 9603
+### Collaboration and Projects
 
-:mailbox: thoanguyen290795@gmail.com
+- 👯 I'm enthusiastic about collaborating on front-end, back-end, or fullstack projects.
+- 💬 Feel free to reach out to me if you have any project ideas or if you'd like to collaborate.
 
+### Contact Me
 
+- :iphone: Phone: 046 564 9603
+- :mailbox: Email: thoanguyen290795@gmail.com
 
-
+Looking forward to connecting with you!
