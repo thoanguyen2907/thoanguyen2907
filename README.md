@@ -1,9 +1,8 @@
 ## Hello there! 👋
 
-Welcome to my GitHub profile. 
-Blog project built by SpringBoot, Kafka, ElasticsSearch: [Blog](https://blogs.code4fun.xyz/)
-Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
-Currently working as Software Engineer at @Mindioo
+- Currently working as Software Engineer at @Mindioo
+- Blog project built by SpringBoot, Kafka, ElasticsSearch: [Blog](https://blogs.code4fun.xyz/)
+- Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
 
 ### About Me
 
