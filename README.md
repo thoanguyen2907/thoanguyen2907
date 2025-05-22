@@ -1,14 +1,18 @@
 ## Hello there! 👋
 
-Welcome to my GitHub profile. Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
+Welcome to my GitHub profile. 
+Blog project built by SpringBoot, Kafka, ElasticsSearch: [Blog](https://blogs.code4fun.xyz/)
+Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
+Currently working as Software Engineer at @Mindioo
 
 ### About Me
 
 I specialize in:
 
-- :snowflake: **Frontend**: Reactjs, React Saga, React Thunk, Higher-Order Components (HOC), Ant Design, Formik + Yup, Tailwind CSS, JavaScript, TypeScript
-- **Database**: MySQL
-- **Backend**: Object-Oriented Programming (OOP), Node.js, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
+- :snowflake: **Frontend**: Reactjs, Redux, TypeScript
+- **Database**: MySQL, PostgreSQL (Atomic, Isolation ) 
+- **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
+- **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis
 
 ### Collaboration and Projects
 
