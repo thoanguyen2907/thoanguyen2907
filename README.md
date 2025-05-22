@@ -8,7 +8,7 @@
 
 I specialize in:
 
-- :snowflake: **Frontend**: Reactjs, Redux, TypeScript
+- **Frontend**: Reactjs, Redux, TypeScript
 - **Database**: MySQL, PostgreSQL (Atomic, Isolation ) 
 - **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
 - **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis, Microservices
