@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 - Currently working as Software Engineer at @Mindioo
-- Blog project built by SpringBoot, Kafka, ElasticsSearch: [Blog](https://blogs.code4fun.xyz/)
+- Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices: [Blog](https://blogs.code4fun.xyz/)
 - Feel free to explore my portfolio: [FS Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
 
 ### About Me
@@ -11,7 +11,7 @@ I specialize in:
 - :snowflake: **Frontend**: Reactjs, Redux, TypeScript
 - **Database**: MySQL, PostgreSQL (Atomic, Isolation ) 
 - **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
-- **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis
+- **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis, Microservices
 
 ### Collaboration and Projects
 
