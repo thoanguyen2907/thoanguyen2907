@@ -2,7 +2,7 @@
 
 - Currently working as Software Engineer at @Mindioo
 - Blog project built by SpringBoot, Kafka, ElasticsSearch: [Blog](https://blogs.code4fun.xyz/)
-- Feel free to explore my portfolio: [Frontend Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
+- Feel free to explore my portfolio: [FS Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
 
 ### About Me
 
