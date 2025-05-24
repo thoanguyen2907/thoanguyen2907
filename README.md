@@ -9,7 +9,7 @@
 I specialize in:
 
 - **Frontend**: Reactjs, Redux, TypeScript
-- **Database**: MySQL, PostgreSQL (Atomic, Isolation ) 
+- **Database**: MySQL, PostgreSQL (ACID, Isolation ) 
 - **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
 - **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis, Microservices
 
