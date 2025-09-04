@@ -1,17 +1,17 @@
 ## Hello there! 👋
 
 - Currently working as Software Engineer at @Mindioo
-- Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices: [Blog](https://blogs.code4fun.xyz/)
-- Feel free to explore my portfolio: [FS Portfolio](https://thoanguyen-frontend-cv.netlify.app/work.html)
+- Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices, I mainly work in backend: [Blog](https://blogs.code4fun.id.vn/)
+- Feel free to explore my portfolio: [FS Portfolio](https://thoa-cv-portfolio-fullstack.netlify.app/work)
 
 ### About Me
 
 I specialize in:
 
-- **Frontend**: Reactjs, Redux, TypeScript
-- **Database**: MySQL, PostgreSQL (ACID, Isolation ) 
-- **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient
-- **Others**: Kafka, ElasticsSearch, RabbitMQ, Redis, Microservices
+- **Frontend**: Reactjs, Redux, NextJS, TypeScript
+- **Database**: MySQL, PostgreSQL, Supabase
+- **Backend**:  Node.js, ASP.NET, Java, Spring Boot, Basic Design Patterns, Unit/Integration Testing, Webclient, Supabase
+- **Others**: Kafka, ElasticsSearch, Redis, Microservices
 
 ### Collaboration and Projects
 
@@ -20,7 +20,7 @@ I specialize in:
 
 ### Contact Me
 
-- :iphone: Phone: 046 564 9603
-- :mailbox: Email: thoanguyen290795@gmail.com
+- :iphone: Phone: 044 9288326
+- :mailbox: Email: thoangguyen2024@gmail.com
 
 Looking forward to connecting with you!
