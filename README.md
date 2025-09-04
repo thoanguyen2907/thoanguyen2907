@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-- Currently working as Software Engineer at @Mindioo
+- Currently working as Software Engineer at @Mindioo. Previously, I was working as Supporting Instructor at Integrify for 3 years. 
 - Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices, I mainly work in backend: [Blog](https://blogs.code4fun.id.vn/)
 - Feel free to explore my portfolio: [FS Portfolio](https://thoa-cv-portfolio-fullstack.netlify.app/work)
 
