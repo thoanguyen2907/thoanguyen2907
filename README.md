@@ -2,8 +2,8 @@
 
 - Currently working as Software Engineer at @Mindioo. Contributing to this website [Mindioo](https://www.mindioo.com/)
 - Previously, I was working as Supporting Instructor at Integrify for 3 years. 
-- Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices, I mainly work in backend: [Blog](https://blogs.code4fun.id.vn/)
-Github: [Github-Blog](https://github.com/tuanbeovnn/my_blog_fly_way)
+- Blog project built by SpringBoot, Kafka, ElasticsSearch, Microservices, I mainly work in backend: [Blog-Webpage](https://blogs.code4fun.id.vn/)
+-- Github: [Github-Blog](https://github.com/tuanbeovnn/my_blog_fly_way)
 - Feel free to explore my portfolio: [FS Portfolio](https://thoa-cv-portfolio-fullstack.netlify.app/work)
 
 ### About Me
